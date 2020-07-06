@@ -26,6 +26,6 @@ $ python run.py
 <img src="https://i.top4top.io/p_1648v1se30.jpg">
 
 ## Support Me
-[![Github](https://img.shields.io/badge/Github?style=for-the-badge&logo=github)](https://github.com/aslanzz)
+
 [![Instagram](https://img.shields.io/badge/IG-%40aslanz17-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/aslanz17)
 [![Youtube](https://img.shields.io/badge/Youtube-Channel-red?style=for-the-badge&logo=youtube)](https://bit.ly/2C5nvEq)
